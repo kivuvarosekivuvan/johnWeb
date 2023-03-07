@@ -1,0 +1,185 @@
+.body{
+    background-color: rgb(225, 234, 238);
+}
+
+.div1{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0px;
+   
+}
+#john{
+    margin-left: 10px;
+    font-size: 20px;
+    color: blue;
+    font-weight: 900;
+
+
+}
+.search{
+    margin-left: 450px;
+    margin-top: 0px;
+   font-weight: 500;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+}
+#bt1{
+    background-color:black;
+    color: whitesmoke;
+    margin-left: 900px;
+    border-radius: 30%;
+    padding: 10px;
+    margin-top: 0px;
+}
+#bt2{
+    border-radius: 30%;
+    padding: 10px;
+    margin-left: 1000px;
+    margin-top: -2000px;
+  
+
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0px;
+}
+.nav1 ul li{
+    display: inline-flex;
+    justify-content: center;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    border: none;
+    font-size: 20px;
+    color: black;
+}
+   
+    
+
+li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#hr1{
+   
+    margin-top: -50px;
+    font-weight: 20px;
+}
+#h1{
+    margin-left: 500px;
+    font-size: 60px;
+    font-weight: 900;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+}
+#pic1{
+    margin-left: 10px;
+
+}
+#pic2{
+    margin-left: 330px;
+    margin-top: -225px;
+}
+#pic3{
+    margin-left: 630px;
+    margin-top: -225px;
+}
+#pic4{
+    margin-left: 950px;
+    margin-top: -225px;
+}
+.bold{
+    font-size: 90%;
+    font-weight: 700;
+}
+#top{
+    align-self: center;
+    font-size: 290%;
+    font-weight: 700;
+}
+#t1{
+    border-radius: 100%;
+    height: 180px;
+    width: 180px;
+
+}
+#t2{
+    border-radius: 100%;
+    height: 180px;
+    width: 180px;
+    margin-left: 30px;
+}
+#t3{
+    border-radius: 100px;
+    height: 180px;
+    width: 180px;
+    margin-left: 60px;
+}
+
+#t4{
+    border-radius: 100%;
+    height: 180px;
+    width: 180px;
+    margin-left: 90px;
+}
+#t5{
+    border-radius: 100%;
+    height: 180px;
+    width: 180px;
+    margin-left: 120px;
+}
+.bold2{
+    display: flex;
+    font-size: 90%;
+    font-weight: 700;
+}
+#our{
+    margin-left: 300px;
+    font-size: 60px;
+    font-weight: 900;
+   
+}
+.tops{
+    margin-left: 30px;
+}
+.silk{
+    margin-left: 300px;
+    margin-top: -380px;
+}
+.uzi{
+
+    margin-left: 600px;
+    margin-top: -380px;
+   
+}
+.hat{
+    margin-left: 900px;
+    margin-top: -340px;
+}
+
+.d1{
+    margin-left: 100px;
+}
+.d2{
+    margin-left: 400px;
+    margin-top: -130px;
+}
+
+.d3{
+    margin-left: 800px;
+    margin-top: -200px;
+}
+
+
+
+
+
+
+
+
+
+
+
